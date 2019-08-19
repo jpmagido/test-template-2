@@ -14,7 +14,6 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
-
 //= require assets/js/jquery-3.3.1.min.js
 //= require assets/js/jquery-ui.js
 //= require assets/js/popper.min.js
