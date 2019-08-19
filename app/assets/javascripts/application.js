@@ -18,6 +18,7 @@
 //= require assets/js/jquery-ui.js
 //= require assets/js/popper.min.js
 //= require assets/js/bootstrap.min.js
+//= require assets/js/owl.carousel.min.js
 //= require assets/js/jquery.magnific-popup.min.js
 //= require assets/js/aos.js
 
