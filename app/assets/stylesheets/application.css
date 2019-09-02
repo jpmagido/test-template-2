@@ -16,7 +16,6 @@
  *= require assets/stylesheets/bootstrap.min.css
  *= require assets/stylesheets/magnific-popup.css
  *= require assets/stylesheets/jquery-ui.css
- 
  *= require assets/stylesheets/aos.css 
  */
 
@@ -26,3 +25,17 @@
 	background-size: cover; 
 	background-position: center;
 }
+
+#item-carousel {
+
+	height: 10%;
+	width: 10%;
+}
+
+#carouselExampleCaptions {
+	width: 40%;
+	margin: auto;
+}
+
+
+
