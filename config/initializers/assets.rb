@@ -15,7 +15,3 @@ Rails.application.config.assets.paths << Rails.root.join("vendor")
 # folder are already added.
 # Rails.application.config.assets.precompile += %w( admin.js admin.css )
 
-$(function() {
-  AOS.init();
-
-});
