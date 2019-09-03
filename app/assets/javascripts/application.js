@@ -22,3 +22,11 @@
 //= require assets/js/aos.js
 //= require js/jquery.min.js
 
+
+
+
+$(function() {
+  AOS.init();
+
+});
+
