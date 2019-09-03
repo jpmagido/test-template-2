@@ -12,11 +12,7 @@
  *
  *= require_tree .
  *= require_self
- *= require icomoon/style.css
- *= require assets/stylesheets/bootstrap.min.css
- *= require assets/stylesheets/magnific-popup.css
- *= require assets/stylesheets/jquery-ui.css
- *= require assets/stylesheets/aos.css 
+ 
  */
 
 #div-img-bg {
